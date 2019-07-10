@@ -1,0 +1,6 @@
+{
+    "viewportWidth": 1280,
+    "viewportHeight": 720,
+    "baseUrl": "https://sofia-homolog.cwi.com.br/#/login",
+    "defaultCommandTimeout": 30000
+}
