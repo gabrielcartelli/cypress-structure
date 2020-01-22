@@ -1,0 +1,15 @@
+{
+    "name": "cypress-structure",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "preinstall": "npm i -g cypress",
+        "test:chrome": "cypress run --browser chrome --no-exit"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "cypress": "^3.4.0"
+    }
+}
